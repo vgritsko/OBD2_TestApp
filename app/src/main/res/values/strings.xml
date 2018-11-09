@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OBD2_TestApp</string>
+    <string name="bluetooth_connection_failed">Unable to connect device</string>
+    <string name="bluetooth_connection_success">Connect successful </string>
+
+    <string name="bluetooth_socket_failed">Bluetooth socket connection create failed</string>
+
+    <string name="bluetooth_connected">Connected to ELM327</string>
+    <string name="bluetooth_dialog_title">Select a device to connect</string>
+    <string name="obd_sending_data">Sending data to OBD</string>
+</resources>
